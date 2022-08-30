@@ -8,6 +8,8 @@
 <a href="https://linkedin.com/in/claudinei-martins-97697a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/claudinei-martins-97697a208" height="30" width="30" /></a>
 </p>
 
+<h4 align="left">A seguir, alguns links a respeito do meu aprendizado:</h4>
+Link, Game Pong no P5:https://editor.p5js.org/claudineimartins8/sketches/RxJ3qyI_J
 
 
 
