@@ -8,7 +8,7 @@
 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn-icons-png.flaticon.com/512/5968/5968267.png)" alt="python" width="20" height="20"/> </a> </p>
 
 
 <h2 align="left">Vamos nos conhecer!</h3>
