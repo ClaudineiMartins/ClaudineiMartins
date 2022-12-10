@@ -18,9 +18,9 @@
 </p>
 
 <h4 align="left">A seguir, alguns links a respeito do meu aprendizado:</p>
-Link, Game Pong no P5:https://editor.p5js.org/claudineimartins8/sketches/RxJ3qyI_J</p>
-Link, FreeWay no P5:https://editor.p5js.org/claudineimartins8/sketches/TvikdRL-F
-7 days | Alura: https://claudineimartins.github.io/7dayalura/
+<p>Link, Game Pong no P5:https://editor.p5js.org/claudineimartins8/sketches/RxJ3qyI_J</p>
+<p>Link, FreeWay no P5:https://editor.p5js.org/claudineimartins8/sketches/TvikdRL-F</p>
+<p>7 days | Alura: https://claudineimartins.github.io/7dayalura/</p>
 
 
 
