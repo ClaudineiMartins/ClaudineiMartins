@@ -10,19 +10,20 @@
 
 </a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="python" width="20" height="20"/> </a> </p>
 </a> <a href="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="python" width="20" height="20"/> </a>
+
+  
+  
+
+
+<h4 align="left">Veja algumas coisas feitas por mim:</p>
+<a target="blank" href="https://portifolio-ten-alpha.vercel.app/"> 
+  Meu portifolio
+</a>
+
 <h2 align="left">Vamos nos conhecer!</h3>
 <p align="center">
-  
-  
 <a href="https://linkedin.com/in/claudinei-martins-97697a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/claudinei-martins-97697a208" height="30" width="30" /></a>
 </p>
-
-<h4 align="left">A seguir, alguns links a respeito do meu aprendizado:</p>
-<p>Link, Game Pong no P5:https://editor.p5js.org/claudineimartins8/sketches/RxJ3qyI_J</p>
-<p>Link, FreeWay no P5:https://editor.p5js.org/claudineimartins8/sketches/TvikdRL-F</p>
-<p>7 days | Alura: https://claudineimartins.github.io/7dayalura/</p>
-
-
 
 
 
